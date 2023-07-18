@@ -11,7 +11,9 @@ Córdoba Capital, Argentina
 
 +54 (351) 3838890 
 
-santiagomarich@gmail.con 
+santiagomarich@gmail.com
+
+https://www.linkedin.com/in/santiago-marich/
 
 TECH SKILLS
 
