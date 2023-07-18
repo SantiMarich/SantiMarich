@@ -1,16 +1,46 @@
 ### Hi there 👋
 
-<!--
-**SantiMarich/SantiMarich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SANTIAGO MARICH
 
-Here are some ideas to get you started:
+FULL STACK DEVELOPER
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Full Stack Developer, con background como Arquitecto, con experiencia como líder de áreas de proyectos en empresas de Arquitectura e ingeniería por más de 3 años, que me ayudaron a agregar competencias, trabajar en equipo, con profesionales a cargo. Conocimientos en metodologías agiles, participación de diversos proyectos y aplicación de software de diseño. Actualmente, mi enfoque está en combinar mi experiencia anterior con mi formación como Desarrollador para potenciar al máximo mis habilidades en el mundo IT.
+
+
+Córdoba Capital, Argentina
+
++54 (351) 3838890 
+
+santiagomarich@gmail.con 
+
+TECH SKILLS
+
+•	Node.js
+•	Express
+•	JavaScript
+•	React
+•	Redux
+•	CSS
+•	HTML
+•	SQL
+•	PostgreSQL
+
+ 
+SOFT SKILLS 
+
+•	Trabajo en equipo
+•	Liderazgo
+•	Creatividad
+•	Proactividad
+•	Autonomía
+•	Analítico
+•	Scrum
+
+IDIOMAS
+
+•	Español (Nativo)
+•	Inglés (Intermedio)
+•	Portugués (Básico)
+
+
+
