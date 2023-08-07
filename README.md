@@ -18,7 +18,7 @@ https://www.linkedin.com/in/santiago-marich/
 TECH SKILLS
 
 •	Node.js
-•	Express
+•	Express.js
 •	JavaScript
 •	React
 •	Redux
