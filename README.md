@@ -46,6 +46,7 @@
 
 ---
 
+<div align="center">
 ### 📊 My Stats :
 
 [![GitHub
@@ -54,6 +55,8 @@ Streak](https://github-readme-streak-stats.herokuapp.com?user=santimarich&theme=
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=santimarich&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santimarich&hide_progress=true)
+
+</div>
 
 Córdoba Capital, Argentina
 
