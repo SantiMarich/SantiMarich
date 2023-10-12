@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGw0empkbGtrYzU1cDY3bzNlZXp5aTgxdnBkdGZhZ3Q5aWZ6ZHdvNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300">
   <h1 align="center">Hi 👋, I'm Santiago</h1>
   <h3 align="center">
     A web Full Stack Developer from Argentina, with a background as an Architect, and over 3 years of experience as a leader in project areas at Architecture and Engineering companies. These experiences have allowed me to acquire new skills, work as a team player, and manage professionals. I have knowledge in agile methodologies, have participated in various projects, and have used design software. Currently, my focus is on combining my previous experience with my training as a Developer to maximize my skills in the IT world
@@ -26,7 +25,7 @@
 </div>
 
 ---
-<div align="left">
+<div align="center">
   <h3> 🔨 Languages and Tools: </h3>
   <div>
     <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg#L1" alt="HTML5" width="40" height="40"/>&nbsp;
