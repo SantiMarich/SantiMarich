@@ -47,7 +47,7 @@
 ---
 
 <div align="center">
-### 📊 My Stats :
+<h3> 📊 My Stats : </h3>
 
 [![GitHub
 Streak](https://github-readme-streak-stats.herokuapp.com?user=santimarich&theme=dark)](https://git.io/streak-stats)
